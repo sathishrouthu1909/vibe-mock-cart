@@ -58,7 +58,7 @@ Tip: qty can be positive (increment) or negative (decrement).
 
 ## 🧾 Demo
 
-🎥 **Demo Video:** [Unlisted YouTube or Loom link goes here]
+🎥 **Demo Video:** https://youtu.be/IXhd_nrtYOE
 
 🖼 **Screenshots**  
 Add images in a `/docs` folder, then reference them like this:
