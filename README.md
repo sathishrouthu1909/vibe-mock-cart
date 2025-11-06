@@ -101,10 +101,3 @@ Hover zoom & animation on product cards
 Sathish Routhu
 🗓️ November 2025
 📍 Built as part of the Vibe Commerce Internship Screening Assignment
-
-🪄 Submission Package Includes
-✅ /backend (Express API)
-✅ /frontend (React app)
-✅ README.md (setup, endpoints, screenshots, demo link)
-✅ 1–2 minute Demo Video (unlisted YouTube/Loom link)
-✅ Screenshots in /docs
