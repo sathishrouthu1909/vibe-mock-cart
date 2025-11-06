@@ -56,21 +56,20 @@ POST	/api/checkout	{ name, email, cartItems }	Simulate checkout; returns receipt
 
 Tip: qty can be positive (increment) or negative (decrement).
 
-🧾 Demo
-🎥 Demo Video: [Unlisted YouTube or Loom link goes here]
+## 🧾 Demo
 
-🖼 Screenshots:
-Add images in a /docs folder, then reference them like this:
+🎥 **Demo Video:** [Unlisted YouTube or Loom link goes here]
 
-md
+🖼 **Screenshots**  
+Add images in a `/docs` folder, then reference them like this:
+
 ![Products Grid](docs/products.png)
 ![Cart View](docs/cart.png)
 ![Checkout Modal](docs/checkout.png)
 
+---
 
-🧱 Folder Structure
-cpp
-
+## 🧱 Folder Structure
 
 vibe-mock-cart/
  ├─ backend/
@@ -87,17 +86,19 @@ vibe-mock-cart/
  ├─ docs/                     # screenshots
  └─ README.md
 
+---
 
-💡 Bonus Implementations (Optional)
-Persistent cart storage using SQLite
+## 💡 Bonus Implementations (Optional)
 
-Dynamic product fetching from Fake Store API
+- Persistent cart storage using **SQLite**
+- Dynamic product fetching from **Fake Store API**
+- Navbar with live cart item count
+- Hover zoom & animation on product cards
 
-Navbar with live cart item count
+---
 
-Hover zoom & animation on product cards
+## 🧑‍💻 Author
 
-🧑‍💻 Author
-Sathish Routhu
-🗓️ November 2025
-📍 Built as part of the Vibe Commerce Internship Screening Assignment
+**Sathish Routhu**  
+🗓️ November 2025  
+📍 Built as part of the **Vibe Commerce Internship Screening Assignment**
